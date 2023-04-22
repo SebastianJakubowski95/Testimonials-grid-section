@@ -7,9 +7,12 @@
 
 body {
   background-color: var(--dark-white);
-  margin-top: 50px;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0 2rem;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
 }
 
